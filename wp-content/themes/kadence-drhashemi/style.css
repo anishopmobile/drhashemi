@@ -1,0 +1,19 @@
+/*
+Theme Name: Kadence – Dr. Hashemi
+Theme URI: https://github.com/anishopmobile/drhashemi
+Description: قالب فرزند اختصاصی برای سایت دانشگاهی دکتر سید احمد هاشمی، ساخته‌شده بر پایهٔ قالب رایگان Kadence. طراحی فارسی، راست‌به‌چپ و مینیمال برای معرفی سوابق علمی و اجرایی، مقالات، کتاب‌ها و طرح‌های پژوهشی.
+Author: Dr. Hashemi Website
+Template: kadence
+Version: 1.0.0
+Requires at least: 6.4
+Requires PHP: 8.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: kadence-drhashemi
+Tags: rtl-language-support, custom-menu, custom-logo, featured-images, translation-ready
+*/
+
+/*
+ * استایل اصلی در assets/css/main.css قرار دارد و با تابع drh_enqueue_assets
+ * بارگذاری می‌شود. این فایل فقط شناسنامهٔ قالب است.
+ */

@@ -1,0 +1,14 @@
+# فقط قالب فرزند و README منتشر می‌شود
+/*
+!/.gitignore
+!/README.md
+!/wp-content/
+
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/kadence-drhashemi/
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
